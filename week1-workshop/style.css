@@ -1,0 +1,24 @@
+#nav-links{
+	list-style: none;
+	display: flex;
+	a{
+		text-decoration: none;
+		color: #3A54FF;
+	}
+	gap: 20px;
+	li{
+		font-size: 20px;
+	}
+}
+nav{
+	display: flex;
+	align-items: baseline;
+	justify-content: space-around;
+}
+#main-title{
+	color: darkred;
+}
+body{
+	background-color: #FEFFED;
+	padding: 10px 12px;
+}
